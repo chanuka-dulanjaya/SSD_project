@@ -1,0 +1,37 @@
+#background-div {
+  background-color: #f4f4f4;
+}
+
+#small1 {
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+#card-image {
+  width: 99%;
+  margin-top: 15%;
+}
+
+#MDBRow1 {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 99%;
+}
+#MDBCardImage1{
+    width:99%;
+     margin-top:15%
+}
+
+#label1{
+    font-size: 18px;
+}
+#pass{
+    font-size: 18px;
+}
+
+#labe2{
+    font-size: 18px;
+}
+
+#MDBBtn2{
+    font-size: 18px;
+}
